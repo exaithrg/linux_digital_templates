@@ -1,0 +1,4 @@
+build/
+ivbuild/*.vcd
+ivbuild/*.log
+ivbuild/*.out
