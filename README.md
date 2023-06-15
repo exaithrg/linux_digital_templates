@@ -11,7 +11,7 @@ I have a plan to merge [exaithrg/iverilog_templates](https://github.com/exaithrg
 ```bash
 sudo apt install build-essential man gcc g++ gcc-doc gdb git libreadline-dev libsdl2-dev llvm llvm-dev
 # apt-get install llvm-11 llvm-11-dev # only for ubuntu20.04
-sudo apt install autoconf automake autotools-dev curl device-tree-compiler libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev git
+sudo apt install autoconf automake make cmake autotools-dev curl device-tree-compiler libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev git
 sudo apt install vim tmux exuberant-ctags
 ```
 
